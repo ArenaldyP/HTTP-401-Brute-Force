@@ -1,4 +1,4 @@
-# Statik Analisis Malware
+# HTTP 401 Brute Force Tool
 
 ## 📌 Deskripsi
 Alat ini dirancang untuk melakukan pengujian keamanan beretika dengan mencoba kombinasi username dan password pada sistem yang menggunakan autentikasi HTTP Basic dengan kode status 401. Proyek ini mencakup dua komponen:
